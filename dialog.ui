@@ -36,7 +36,7 @@
            </font>
           </property>
           <property name="text">
-           <string>HTimes:   0.1 X </string>
+           <string>HTimes:  0.1 X  </string>
           </property>
          </widget>
         </item>
@@ -356,7 +356,7 @@
            </font>
           </property>
           <property name="text">
-           <string>LTimes:    0.1 X </string>
+           <string>LTimes :  0.1 X  </string>
           </property>
          </widget>
         </item>
